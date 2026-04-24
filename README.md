@@ -4,7 +4,7 @@
 
 **测试集准确率：66.0%**
 
-模型权重下载：https://pan.baidu.com/s/1fY6Dpt9ds6S_rVzH41pq7Q?pwd=jugg 提取码: jugg 
+模型权重下载：https://drive.google.com/drive/folders/1dysWrnmL5lKeMKtsPJdX26FBc1z0KQVK?usp=share_link
 
 ---
 
